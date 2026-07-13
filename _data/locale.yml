@@ -1,0 +1,56 @@
+# @start locale config
+## => English
+########################
+en: &EN
+  SUBSCRIBE               : "Subscribe"
+  READMORE                : "Read more"
+  SEARCH                  : "Search"
+  CANCEL                  : "Cancel"
+  VIEWS                   : "views"
+  LAST_UPDATED            : "Last updated"
+  PREVIOUS                : "PREVIOUS"
+  NEXT                    : "NEXT"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] post articles, [PAGE_COUNT] pages."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Edit on Github"
+  FOLLOW_ME               : "Follow me on [NAME]."
+  FOLLOW_US               : "Follow us on [NAME]."
+  EMAIL_ME                : "Send me an Email."
+  EMAIL_US                : "Send us an Email."
+  COPYRIGHT_DATES         : "2026"
+
+en-GB:
+  <<: *EN
+en-US:
+  <<: *EN
+en-CA:
+  <<: *EN
+en-AU:
+  <<: *EN
+
+## => Español
+########################
+es: &ES
+  SUBSCRIBE               : "Suscribirse"
+  READMORE                : "Leer mas"
+  SEARCH                  : "Buscar"
+  CANCEL                  : "Cancelar"
+  VIEWS                   : "Visitas"
+  LAST_UPDATED            : "Ultima actualizacion"
+  PREVIOUS                : "ANTERIOR"
+  NEXT                    : "SIGUIENTE"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] articulos publicados, [PAGE_COUNT] paginas."
+  LICENSE_ANNOUNCE        : "Este trabajo se encuentra bajo la licencia [LICENSE]."
+  POST_ON_GITHUB          : "Editar en Github"
+  FOLLOW_ME               : "Sigueme en [NAME]."
+  FOLLOW_US               : "Siguenos en [NAME]."
+  EMAIL_ME                : "Envia un correo."
+  EMAIL_US                : "Envia un correo."
+  COPYRIGHT_DATES         : "2026"
+
+
+# @end locale config

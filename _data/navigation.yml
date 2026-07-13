@@ -1,0 +1,24 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       About Me
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      es      : &ES       Sobre mi
+      # @end locale config
+    #url: /about.html
+    url: /index.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Projects
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      es      : &ES       Proyectos
+      # @end locale config
+    url: /archive2.html
+

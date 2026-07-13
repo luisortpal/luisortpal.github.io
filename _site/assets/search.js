@@ -1,0 +1,1 @@
+window.TEXT_SEARCH_DATA={'posts':[{'title':"Digital Plasticine - Shader",'url':"/2026/06/21/plasticine-shader.html"},{'title':"Digital Plasticine - Plasticity simulation",'url':"/2026/06/22/plasticity-simulation.html"}]};
