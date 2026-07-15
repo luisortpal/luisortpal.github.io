@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Digital Plasticine - Shader
-tags: Shaders Physically_Based_Rendering BRDF_implementation Textures Godot GLSL
+tags: Shaders Physically_Based_Rendering BRDF_implementation Textures Godot GDShader
 cover: /assets/plasticine_shader/PlasticinePlus_Text_general2.png
 #article_header:
 #  type: cover
